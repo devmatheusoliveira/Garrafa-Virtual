@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Equipe:
 
 <a href="https://www.linkedin.com/in/gleiceaguilar/">
-  <img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/763941475914219561/765325181903962182/WhatsApp_Image_2020-10-12_at_16.59.34.jpeg" width="100px;" alt=""/>
+  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/71046633/102027899-85354800-3d7d-11eb-8237-2754ba058018.jpeg" width="100px;" alt=""/>
   <br />
  <sub><b>Glaice Aguilar</b></sub></a>
  
