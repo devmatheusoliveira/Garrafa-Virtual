@@ -24,13 +24,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Equipe:
 
+<a href="https://www.linkedin.com/in/gleiceaguilar/">
+  <img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/763941475914219561/765325181903962182/WhatsApp_Image_2020-10-12_at_16.59.34.jpeg" width="100px;" alt=""/>
+  <br />
+ <sub><b>Glaice Aguilar</b></sub></a>
+ 
+ <br />
+ <br />
 <a href="https://www.linkedin.com/in/juliana-souza-982bb9135/">
   <img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/763941475914219561/765325181903962182/WhatsApp_Image_2020-10-12_at_16.59.34.jpeg" width="100px;" alt=""/>
   <br />
  <sub><b>Juliana Souza</b></sub></a>
  
  <br />
-  <br />
+ <br />
  <a href="https://www.linkedin.com/in/matheusoliveiramso/">
   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/71046633/101298258-75f54e00-3803-11eb-9361-1aec43bc744a.jpeg" width="100px;" alt=""/>
   <br />
