@@ -1,9 +1,12 @@
 # HACKATHON AMBEV - Garrafa Virtual
 
-Bem-Vindo (a) ao app Garrafa Virtual, estamos buscando diminuir 100% das garrafas
+Bem-Vindo (a) ao app Garrafa Virtual, uma plataforma desenvolvida durante a Hackathon Cervejaria do Futuro Ambev com o objetivo de concientizar as pessoas sobre a reciclagem de garrafas de vidro promovendo a entrega conciente de garrafas aos catadores.
+
+
 
 ### Objetivo do Garrafa Virtual:
 
+O objetivo da Garrafa Virtual é fazer com que o consumidor de cerveja adquira o hábito de reciclar, e para incentiva nós vamos oferecer um sistema de bonificação, a cada entrega de garrafas aos coletores o consumidor acumula pontos e com esses pontos ele poderá gerar um voucher para comprar produtos em nossas lojas parceiras.
 
 
 ### Requisitos para o Funcionamento:
